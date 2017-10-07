@@ -8342,3 +8342,14 @@ body footer .container .footer-logo {
 body footer .container .footer-logo a {
     text-decoration: underline;
 }
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    color: #29c5e6;
+    background-color: rgba(49, 201, 238, 0.05);
+    border: 1px solid #e7e7e7;
+}
+
+.navbar-collapse {
+    padding-left: 0px;
+    padding-right: 0px;
+}
